@@ -30,7 +30,7 @@ If you are in your comfort zone and do not improve on anything, this could be a 
 
 The figure below describes different zones to enter after leaving the comfort zone.
 <figure>
-  <img src="https://github.com/HleyHub/My-Activities/blob/main/ComfortZone.png" width=50% height=50% alt="alt text">
+  <img src="https://github.com/HleyHub/My-Activities/blob/main/docs/ComfortZone.png" width=50% height=50% alt="alt text">
   <figcaption>Figure: Different zones to embrace to be successful [Link](https://ricraftis.au/personal-development/moving-beyond-your-comfort-zone-a-path-to-personal-growth/)</figcaption>
 </figure>
 <br/><br/>
@@ -52,7 +52,7 @@ I want to challenge you to take your journal, planning, or notebook and write do
 
 The following figure lists some of the items you can value in your life.
 <figure>
-  <img src="https://github.com/HleyHub/My-Activities/blob/main/ValueItem.png" width=40% height=40% alt="alt text">
+  <img src="https://github.com/HleyHub/My-Activities/blob/main/docs/ValueItem.png" width=40% height=40% alt="alt text">
   <figcaption>Figure: What do you value in your life?</figcaption>
 </figure>
 <br/><br/>
@@ -101,7 +101,7 @@ As an example, when you plan your day the night before going to be, you wake up 
 
 Your long-term goal can fall within any of the categories given in the figure below.
 <figure>
-  <img src="https://github.com/HleyHub/My-Activities/blob/main/GoalsCategories.png" width=40% height=40% alt="alt text">
+  <img src="https://github.com/HleyHub/My-Activities/blob/main/docs/GoalsCategories.png" width=40% height=40% alt="alt text">
   <figcaption>Figure: Long-term goal categories.</figcaption>
 </figure>
 <br/><br/>
